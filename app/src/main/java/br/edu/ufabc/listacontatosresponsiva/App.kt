@@ -35,5 +35,9 @@ class App : Application() {
         Contact("", "", "", "", "")
     }
 
+    fun deleteContactById(id: String) {
+        // TODO:
+    }
+
 
 }
